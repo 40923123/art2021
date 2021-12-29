@@ -1,4 +1,2 @@
-# cmstemplate
-Github pages template for cmsimde submodule
-
-http://mde.tw/cmstemplate
+# 藝術史第六組終極密碼
+此為藝術史第六組的網站原始碼
